@@ -1,6 +1,16 @@
+## Profil
+
+| | Biodata |
+| -------- | --- |
+| **Nama** | Ramon Mister Hadi |
+| **NIM** | 312010508 |
+| **Kelas** | TI.20.A2 |
+| **Mata Kuliah** | Pemrograman Mobile |
+
 # login_app
 
-A new Flutter project.
+![hasil](https://github.com/Tangker17/uts_mobile/assets/92871153/4f88b75c-2804-47e7-9d67-2191e9433ecc)
+
 
 ## Getting Started
 
